@@ -1,0 +1,64 @@
+body{
+max-width:1200px;
+margin:auto;
+font-size: 14px;
+line-height: 16px;
+}
+header{
+	    justify-content: space-between;
+    display: flex;
+}
+.section1{
+justify-content: space-between;
+display: flex;
+}
+.banner3{
+	justify-content: space-between;
+	display: flex;
+	flex-direction: column;	
+}
+
+.list{
+	display: inline-flex;
+    font-size: 14px;
+color: #64829c;
+font-family: arail;
+}
+
+.list ul li{
+	display: inline-flex;
+
+}
+li a{
+	text-decoration:none; 
+}
+.logo{
+	display: inline-block;
+}
+.contact{
+	display: inline-flex;
+}
+.contact{
+	padding: 16px;
+}
+.a2{
+	display: inline-flex;
+	justify-content: space-between;
+}
+.bro{
+	display: inline-flex;
+}
+.just{
+	display: inline-flex;
+}
+.just2{
+	display: inline-flex;
+}
+.comment{
+	display: inline-flex;
+}
+.foot{
+	background-color: black;
+	color: white;
+	display: inline-flex;
+}
